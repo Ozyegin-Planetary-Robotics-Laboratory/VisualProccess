@@ -1,0 +1,7 @@
+train: /home/tanay/orange_hammer_dataset/train/images
+val: /home/tanay/orange_hammer_dataset/valid/images
+test: /home/tanay/orange_hammer_dataset/test/images
+
+nc: 2
+names: ['Orange_hammer', 'rock']
+
